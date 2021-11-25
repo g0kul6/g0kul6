@@ -5,6 +5,7 @@
 
 - 🔭 I’m currently working on research projects
 - 🌱 I’m currently learning Reinforcement Learning
+- My paper track:https://www.notion.so/a11a5fb793af45c49d15fca86dc81a2f?v=4cfc7831324a416ea3c6b045b51b0a99
 <!--
 **g0kul6/g0kul6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
