@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![image](https://octodex.github.com/images/daftpunktocat-guy.gif){: style="float: left"}
+![image](https://octodex.github.com/images/daftpunktocat-guy.gif){: style="float: left"}{ width: 200px; }
 I am Gokul Kannan.T from Tirchy,India and I'm an 2nd year undergrad majoring in Production at NIT Trichy.My Intrests include Deep Learning, Game Theory, Game-Dev and               Blender.Excited about solving problems in the intersection of mathematics and computer science.
 
 
