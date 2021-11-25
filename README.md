@@ -5,8 +5,8 @@ I am Gokul Kannan.T from Tiruchirappalli,India and I'm an 2nd year undergrad maj
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working:on research projects
-- 🌱 I’m currently learning Reinforcement Learning
+🔭 I’m currently working:on research projects
+🌱 I’m currently learning Reinforcement Learning
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about
