@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am Gokul Kannan.T from Tiruchirappalli,India and I'm an 2nd year undergrad majoring in Production at NIT Trichy.My Intrests include deeplearning,game theory,game-dev and blender.
 <!--
 **g0kul6/g0kul6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
