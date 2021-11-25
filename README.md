@@ -1,8 +1,15 @@
 ### Hi there 👋
-<p float="left">
-  <p>I am Gokul Kannan.T from Tirchy,India and I'm an 2nd year undergrad majoring in Production at NIT Trichy.My Intrests include Deep Learning, Game Theory, Game-Dev and           Blender.Excited about solving problems in the intersection of mathematics and computer science.</p>
-  <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="250" height="250"/>
-</p>
+<div id="container" style="white-space:nowrap">
+
+    <div id="image" style="display:inline;">
+        <img src="https://octodex.github.com/images/daftpunktocat-guy.gif"/>
+    </div>
+
+    <div id="texts" style="display:inline; white-space:nowrap;"> 
+        I am Gokul Kannan.T from Tirchy,India and I'm an 2nd year undergrad majoring in Production at NIT Trichy.My Intrests include Deep Learning, Game Theory, Game-Dev and               Blender.Excited about solving problems in the intersection of mathematics and computer science.
+    </div>
+
+</div>
 
 - 🔭 I’m currently working on research projects
 - 🌱 I’m currently learning Reinforcement Learning
