@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Gokul Kannan.T from Tiruchirappalli,India and I'm an 2nd year undergrad majoring in Production at NIT Trichy.My Intrests include Deep Learning, Game Theory, Game-Dev and Blender.
+I am Gokul Kannan.T from Tirchy,India and I'm an 2nd year undergrad majoring in Production at NIT Trichy.My Intrests include Deep Learning, Game Theory, Game-Dev and Blender.
 - 🔭 I’m currently working on research projects
 - 🌱 I’m currently learning Reinforcement Learning
 <!--
