@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-Here is an inline ![smiley](https://octodex.github.com/images/daftpunktocat-guy.gif){:height="36px" width="36px"}.
-
+Here is an inline ![smiley](https://octodex.github.com/images/daftpunktocat-guy.gif)
+[smile]: https://octodex.github.com/images/daftpunktocat-guy.gif
+{: height="36px" width="36px"}
 
 - 🔭 I’m currently working on research projects
 - 🌱 I’m currently learning Reinforcement Learning
