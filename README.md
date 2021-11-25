@@ -4,8 +4,9 @@ I am Gokul Kannan.T from Tirchy,India and I'm an 2nd year undergrad majoring in 
 - 🌱 I’m currently learning Reinforcement Learning
 
 
-
-<img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="250" height="250"/>
+<p align="right">
+  <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="250" height="250"/>
+</p>
 <!--
 **g0kul6/g0kul6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
