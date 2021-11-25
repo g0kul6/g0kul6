@@ -1,4 +1,5 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
 ### Hi there 👋
 <b>I am Gokul Kannan.T from Tirchy,India and I'm an 2nd year undergrad majoring in Production at NIT Trichy.My Intrests include Deep Learning, Game Theory, Game-Dev and   Blender.Excited about solving problems in the intersection of mathematics and computer science.</b> 
 
