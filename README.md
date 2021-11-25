@@ -5,7 +5,7 @@ I am Gokul Kannan.T from Tirchy,India and I'm an 2nd year undergrad majoring in 
 
 
 
-![](https://i.imgur.com/DnRDhTu.gif)
+![](87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3)
 <!--
 **g0kul6/g0kul6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
