@@ -5,6 +5,7 @@
 
 - 🔭 I’m currently working on research projects
 - 🌱 I’m currently learning Reinforcement Learning
+- 💬 Ask me about cool(when I say cool i am speaking abt Stanley Kubrick) movies.
 
 <!--
 **g0kul6/g0kul6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
