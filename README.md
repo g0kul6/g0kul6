@@ -3,8 +3,7 @@
 ### Hi there 👋
 <b>I am Gokul Kannan.T from Tirchy,India and I'm an 2nd year undergrad majoring in Production at NIT Trichy.My Intrests include Deep Learning and Reinforcement learning.Excited about solving problems in the intersection of mathematics and computer science.</b> 
 
-- 🔭 I’m currently working on research projects
-- 🌱 I’m currently learning Reinforcement Learning
+- 🔭 I’m currently working on research projects in Deepl Learning.
 - 💬 Ask me about cool(when I say cool i am speaking abt Stanley Kubrick) movies.
 
 <!--
