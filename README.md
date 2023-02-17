@@ -1,9 +1,10 @@
+### Konnichiwa 👋
+
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://i.pinimg.com/originals/a7/da/8b/a7da8b6bcd0432826334a0c3c6ad5da3.gif">
 </div>
 
-### Konnichiwa 👋
-<b>I am Gokul Kannan.T from Trichy,India and I'm an 3rd year undergrad majoring in Production at NIT Trichy.My Intrests include Computer Vision and Reinforcement learning.Excited about solving problems in the intersection of mathematics and computer science.</b> 
+<b>I am Gokul from Trichy,India and I'm an 3rd year undergrad majoring in Production at NIT Trichy.My Intrests include Computer Vision and Reinforcement learning.Excited about solving problems in the intersection of mathematics and computer science.</b> 
 
 - 🔭 I’m currently working on research projects in Deep Learning.
 - 💬 Ask me about cool (cool==Stanley Kubrick) movies.
