@@ -1,7 +1,7 @@
 ### Konnichiwa 👋
 
 <div align="center">
-<img hight="200" width="300" alt="GIF" align="center" src="https://media.tenor.com/oC_e7R9GvZ8AAAAC/rick-and-morty-rtj.gif">
+<img hight="200" width="300" alt="GIF" align="center" src="https://media.tenor.com/_HwQHDixHnMAAAAM/kitten-cat.gif">
 </div>
 
 <b>I am Gokul from Trichy,India and I'm an 3rd year undergrad majoring in Production at NIT Trichy.My Intrests include Computer Vision and Reinforcement learning.Excited about solving problems in the intersection of mathematics and computer science.</b> 
