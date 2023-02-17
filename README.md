@@ -1,6 +1,6 @@
 ### Konnichiwa 👋
 
-<div align="center">
+<div align="left">
 <img hight="200" width="300" alt="GIF" align="center" src="https://media.tenor.com/_HwQHDixHnMAAAAM/kitten-cat.gif">
 </div>
 
