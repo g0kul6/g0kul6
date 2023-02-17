@@ -1,7 +1,7 @@
 ### Konnichiwa 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://i.pinimg.com/originals/a7/da/8b/a7da8b6bcd0432826334a0c3c6ad5da3.gif">
+<img hight="100" width="100" alt="GIF" align="center" src="https://steamuserimages-a.akamaihd.net/ugc/1758063017992709035/10E1E915FEC8D22D4EAB1D83A60D0580AEA6C3A3/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 </div>
 
 <b>I am Gokul from Trichy,India and I'm an 3rd year undergrad majoring in Production at NIT Trichy.My Intrests include Computer Vision and Reinforcement learning.Excited about solving problems in the intersection of mathematics and computer science.</b> 
