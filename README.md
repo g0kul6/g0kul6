@@ -12,7 +12,7 @@
     <samp>
         <!-- <br> -->
         <a href="https://g0kul6.github.io/">｢ me ｣</a> .
-        <a href="mailto:gokulknms6@gmail.com">｢ mail ｣</a> .
+        <a href="mailto:gokulknms6@gmail.com">｢ mail ｣</a> 
         <br>
         <br>
     </samp>
