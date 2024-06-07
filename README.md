@@ -3,7 +3,7 @@
 <img hight="200" width="150" alt="GIF" align="right" src="https://media.tenor.com/_HwQHDixHnMAAAAM/kitten-cat.gif">
 </div>
 
-<b>I am Gokul from Trichy, India and I'm a final-year undergrad majoring in Production at NIT Trichy. My interests include Computer Vision and Reinforcement learning. Excited about solving problems in the intersection of mathematics and computer science.</b> 
+<b>I am Gokul an incoming PhD student at Johns Hopkins University. My interests include Computer Vision and Reinforcement learning. </b> 
 
 - 🔭 I’m currently working on research projects in Deep Learning.
 - 💬 Ask me about cool (cool=Stanley Kubrick) movies.
