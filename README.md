@@ -3,7 +3,7 @@
 <img hight="200" width="150" alt="GIF" align="right" src="https://media.tenor.com/_HwQHDixHnMAAAAM/kitten-cat.gif">
 </div>
 
-<b>I am a PhD student at Johns Hopkins University. My research is on \textbf{robotics} and \textbf{reinforcement learning} with a specific focus on \textbf{Vision Language Action models (VLA)}, \textbf{Few-Shot Imitation Learning}, and \textbf{World Modeling}. </b> 
+<b>I am a PhD student at Johns Hopkins University. My research is on robotics and reinforcement learning with a specific focus on Vision Language Action models (VLA), Few-Shot Imitation Learning, and World Modeling. </b> 
 
 - 🔭 I’m currently working on research projects in Deep Learning.
 - 💬 Ask me about cool (cool=Stanley Kubrick) movies.
