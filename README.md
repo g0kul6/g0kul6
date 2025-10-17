@@ -5,7 +5,7 @@
 
 <b>I am a PhD student at Johns Hopkins University. My research is on robotics and reinforcement learning with a specific focus on Vision Language Action models (VLA), Few-Shot Imitation Learning, and World Modeling. </b> 
 
-- 🔭 I’m currently working on research projects in Deep Learning.
+- 🔭 I’m currently working on research projects in Robotics.
 - 💬 Ask me about cool (cool=Stanley Kubrick) movies.
 
 <div align="center">
